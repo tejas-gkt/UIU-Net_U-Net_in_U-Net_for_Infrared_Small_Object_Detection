@@ -1,0 +1,2 @@
+# UIU-Net_U-Net_in_U-Net_for_Infrared_Small_Object_Detection
+“U-Net in U-Net” framework, UIU-Net for short, and detect small objects in infrared images. Embeds a tiny U-Net into a larger U-Net backbone, enabling the multi-level and multi-scale representation learning of objects. Also produces powerful generalization performance for video seq infrared small object datasets, e.g., ATR ground/air video sequence
